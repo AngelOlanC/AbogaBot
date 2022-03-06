@@ -1,6 +1,6 @@
-## AbogaBot - Angel Olan
+# AbogaBot - Angel Olan
 
-# En este repositorio están las prácticas correspondientes a la semana 1 de Front-End de Launch X.
+## En este repositorio están las prácticas correspondientes a la semana 1 de Front-End de Launch X.
 
 **Toma de requerimientos**: https://github.com/AngelOlanC/AbogaBot/blob/main/Requerimientos.pdf
 
